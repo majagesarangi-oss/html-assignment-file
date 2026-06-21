@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 30px;
+}
+.main{
+    border:5px solid black;
+    padding: 20px;
+    width:50%;
+    margin: auto;
+}
+header{
+    border: 5px solid black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+nav{
+    border: 5px solid black;
+    margin-top:10px;
+    padding: 15px;
+    font-weight: bold;
+}
+.main1{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+section{
+    border: 5px solid black;
+    margin-top:10px;
+    padding: 15px;
+    font-weight: bold;
+    text-align: center;
+    width: 57vh !important;
+}
+article{
+    border: 5px solid black;
+    margin-top:10px;
+    padding: 15px;
+    font-weight: bold;
+    width: 57vh !important;
+    text-align: center;
+}
+aside 
+{
+    border: 5px solid black;
+    margin-top:10px;
+    padding: 15px;
+    font-weight: bold;
+    width: 30%;
+    text-align: center;
+}
+footer{
+    border: 5px solid black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+ 
